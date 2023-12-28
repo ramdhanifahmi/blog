@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Tech
+description: All article related to tech that i want to share like programming, websites, etc
 image:
 
 # Badge style
