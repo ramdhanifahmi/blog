@@ -5,7 +5,6 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
 customText = ""
 
 [dateFormat]
@@ -19,14 +18,14 @@ subtitle = "Software Engineer"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/fahmi2.jpg"
 
 [article]
 math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
