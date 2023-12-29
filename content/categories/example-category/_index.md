@@ -1,6 +1,6 @@
 ---
 title: Tech
-description: All article related to tech that i want to share like programming, websites, etc
+description: All article related to tech like programming, websites, etc
 image:
 
 # Badge style

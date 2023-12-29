@@ -1,9 +1,16 @@
 ---
 title: Intro
-description: Welcome to my blog
+description: Welcome to my space
 slug: intro
 date: 2023-12-12 00:00:00+0000
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
+Hello and welcome to my blog! I'm glad that you've taken the time to explore my blog.
 
-First of all, thank you for visiting my blog. I will share about tech, jokes, and my personal life. You can comment with disqus for each my article, I am very happy if we can discuss my writting
+I enjoy discussing variety topics like science 🔬, tech 🚀, staying healthy 🍏, taking care of our planet 🌎, and sports (with a special focus on football⚽).
+
+I'm very happy if you can share your thoughts by commenting using Disqus for each of my articles. Your insights, opinions, and questions is meaningful for make this space more dynamic.
+
+I hope you find information and perhaps a touch of entertainment in my writings.
+
+Cheers 👋
