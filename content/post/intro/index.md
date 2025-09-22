@@ -12,6 +12,4 @@ I enjoy discussing variety topics like science , tech , staying healthy , taking
 
 I'm very happy if you can share your thoughts by commenting using Disqus for each of my articles. Your insights, opinions, and questions is meaningful for make this space more dynamic.
 
-I hope you find information and perhaps a touch of entertainment in my writings.
-
 Cheers 👋
